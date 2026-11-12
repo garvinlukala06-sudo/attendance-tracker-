@@ -1,4 +1,4 @@
-/* CSC 1102 project - Group: ________  Members: ________  GitHub: ________ */
+/* CSC 1102 project - Group:11 Members:Lukala Garvin, Sumbatala Dorah, Nabacwa Charlotte, Mulema Joakim,Mayengo John Mary GitHub: garvinlukala06-sudo*/
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
