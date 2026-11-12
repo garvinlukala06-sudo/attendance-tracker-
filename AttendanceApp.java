@@ -1,4 +1,7 @@
-/* CSC 1102 project - Group:11 Members:Lukala Garvin, Sumbatala Dorah, Nabacwa Charlotte, Mulema Joakim,Mayengo John Mary GitHub: garvinlukala06-sudo*/
+// CSC 1102 project:attendance tracker
+//Group:11 
+//Members:Lukala Garvin, Sumbatala Dorah, Nabacwa Charlotte, Mulema Joakim,Mayengo John Mary 
+//GitHub: https://github.com/garvinlukala06-sudo/attendance-tracker-
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
